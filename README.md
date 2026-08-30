@@ -1,1 +1,1 @@
-# Ragbot
+# Smart Document Q&A bot
