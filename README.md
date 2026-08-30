@@ -9,6 +9,6 @@ An AI-powered document question-answering system using LangChain, OpenAI, and se
 - **AI-Powered Answers**: Leverages GPT-3.5-turbo for intelligent responses
 - **Source Citations**: Provides references to original document chunks
 - **Conversational Interface**: Modern, intuitive web UI
-- **Production-Ready**: Comprehensive error handling and logging
+  
 
 
