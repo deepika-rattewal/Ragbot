@@ -10,3 +10,5 @@ An AI-powered document question-answering system using LangChain, OpenAI, and se
 - **Source Citations**: Provides references to original document chunks
 - **Conversational Interface**: Modern, intuitive web UI
 - **Production-Ready**: Comprehensive error handling and logging
+
+## 🏗️ Architecture
