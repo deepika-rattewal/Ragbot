@@ -8,7 +8,7 @@ An AI-powered document question-answering system using LangChain, OpenAI, and se
 - **Semantic Search**: Uses embeddings to find contextually relevant content
 - **AI-Powered Answers**: Leverages GPT-3.5-turbo for intelligent responses
 - **Source Citations**: Provides references to original document chunks
-- **Conversational Interface**: Modern, intuitive web UI
+  
   
 
 
